@@ -1,4 +1,4 @@
-module github.com/breuxi/telebot.v3.2
+module github.com/breuxi/telebot
 
 go 1.16
 
