@@ -1,4 +1,4 @@
-module gopkg.in/telebot.v3.2
+module github.com/breuxi/telebot.v3.2
 
 go 1.16
 
